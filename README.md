@@ -12,6 +12,9 @@
    -> Robotics 
    -> Quantum Computing
    -> Cloud Computing
+
+-- All These Stuff I will Know From various Points. And Gain The Various types of certification of various stuffs.
+
 <!---
 SP85691/SP85691 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
