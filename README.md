@@ -3,16 +3,19 @@
 - 🏫 Currently, I'm Pursuing Degree - BCA From Asian School of Business - Noida, UP, India.
 - 💞️ I’m Very Enthusiatic doing in Programming.
 - 🧑‍💻 I did worked on these Programming Languages (e.g. C, C++, Python, JS, etc.)
+
 - 🤔 What currently am I doing?
 - I'm Woked on Data Analytics Tools (such as: Python, Pandas, Matplotlib, Saeborn, MySQL)\n
 - Currently I've Created a Model of Facial Recognition.
 - Also, I'm Learning The Models of Machine Learning.
+
 - 📫 How to reach me?
 - Email --> `suryapratap8562@gmail.com`
 - LinkedIN --> `linkedin.com/in/surya-pratap-871b95187/`
 - Instagram --> `https://www.instagram.com/demon77_32/`
 - Mobile No. --> `+91 8512068247`
--- I'm Currently Doing Bachelors of Computer Applications and After that I will persue the Master's Degree in Computer Application.
+
+- I'm Currently Doing Bachelors of Computer Applications and After that I will persue the Master's Degree in Computer Application.
    In Between I'll Greece myself and develop my skills and make me professional in These following Things:
    
    -> Artificial Intelligence
