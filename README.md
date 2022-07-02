@@ -4,7 +4,7 @@
 - 💞️ I’m Very Enthusiatic doing in Programming.
 - 🧑‍💻 I did worked on these Programming Languages (e.g. C, C++, Python, JS, etc.)
 - 🤔 What currently am I doing?
-      - I'm Woked on Data Analytics Tools (such as: Python, Pandas, Matplotlib, Saeborn, MySQL)
+      - I'm Woked on Data Analytics Tools (such as: Python, Pandas, Matplotlib, Saeborn, MySQL)\n
       - Currently I've Created a Model of Facial Recognition.
       - Also, I'm Learning The Models of Machine Learning.
 - 📫 How to reach me?
