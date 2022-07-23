@@ -1,20 +1,17 @@
 ## Introduction! 
-<br>
 <p>- 👋 Hi, I’m Surya Pratap</p>
 <p>- 👀 I’m interested in Artificial Intelligence and Robotics</p>
 <p>- 🏫 Currently, I'm Pursuing BCA From Asian School of Business - Noida, UP, India.</p>
 <p>- 💞️ I’m Very Enthusiatic doing in Programming and Quick Learner.</p>
 <p>- 🧑‍💻 I worked on these Programming Languages (e.g. C, C++, Python, JS, etc.)</p>
-</br>
-<h3> What Projects/Things I have done 🤔!</h3>
 <br>
+<h3> What Projects/Things I have done 🤔!</h3>
 <p>- I Worked on Data Analytics Tools (such as: Python, Pandas, Matplotlib, Saeborn, MySQL).</p>
 <p>- I've Created a Model of Facial Recognition.</p>
 <p>- I've Created Face Tracking and Object Detection Project Using (Tensorflow, Keras, OpenCV and Matplotlib).</p>
 <p>- Also, I'm Learning The Models of Machine Learning.</p>
 <br>
 ## How to reach me 📫?
-<br>
 <p>- Email --> <a href=''>suryapratap8562@gmail.com</a></p>
 <p>- LinkedIN --> <a href=''>linkedin.com/in/surya-pratap-871b95187/</a></p>
 <p>- Instagram --> <a href=''>https://www.instagram.com/demon77_32/</a></p>
