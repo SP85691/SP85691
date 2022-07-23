@@ -1,6 +1,3 @@
-## Hello There👋
-<br>
-
 ## Introduction! 
 <br>
 <p>- 👋 Hi, I’m Surya Pratap</p>
@@ -8,7 +5,6 @@
 <p>- 🏫 Currently, I'm Pursuing BCA From Asian School of Business - Noida, UP, India.</p>
 <p>- 💞️ I’m Very Enthusiatic doing in Programming and Quick Learner.</p>
 <p>- 🧑‍💻 I worked on these Programming Languages (e.g. C, C++, Python, JS, etc.)</p>
-<br>
 ## What Projects/Things I have done 🤔!
 <br>
 <p>- I Worked on Data Analytics Tools (such as: Python, Pandas, Matplotlib, Saeborn, MySQL).</p>
