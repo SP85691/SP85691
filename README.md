@@ -5,10 +5,10 @@
 - 🧑‍💻 I worked on these Programming Languages (e.g. C, C++, Python, JS, etc.)
 
 - 🤔 What Projects/Things I have done . . .
-- I Worked on Data Analytics Tools (such as: Python, Pandas, Matplotlib, Saeborn, MySQL)\n
-- I've Created a Model of Facial Recognition.\n
-- I've Created Face Tracking and Object Detection Project Using (Tensorflow, Keras, OpenCV and Matplotlib).\n
-- Also, I'm Learning The Models of Machine Learning.\n
+- I Worked on Data Analytics Tools (such as: Python, Pandas, Matplotlib, Saeborn, MySQL)
+- I've Created a Model of Facial Recognition.
+- I've Created Face Tracking and Object Detection Project Using (Tensorflow, Keras, OpenCV and Matplotlib).
+- Also, I'm Learning The Models of Machine Learning.
 
 - 📫 How to reach me?
 - Email --> `suryapratap8562@gmail.com`
