@@ -18,7 +18,7 @@
 <br>
 ## 📫 How to reach me?
 <br>
-<p>- Email --> <a>`suryapratap8562@gmail.com`</a></p>
+<p>- Email --> <a href='suryapratap8562@gmail.com'>suryapratap8562@gmail.com</a></p>
 <p>- LinkedIN --> <a>`linkedin.com/in/surya-pratap-871b95187/`</a></p>
 - Instagram --> `https://www.instagram.com/demon77_32/`
 - Mobile No. --> `+91 8512068247`
