@@ -1,3 +1,6 @@
+## HELLO THERE 👋!
+<br>
+
 - 👋 Hi, I’m Surya Pratap
 - 👀 I’m interested in Artificial Intelligence and Robotics
 - 🏫 Currently, I'm Pursuing BCA From Asian School of Business - Noida, UP, India.
