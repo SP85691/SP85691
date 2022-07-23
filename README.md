@@ -21,9 +21,9 @@
 <p>- Email --> <a href=''>suryapratap8562@gmail.com</a></p>
 <p>- LinkedIN --> <a href=''>linkedin.com/in/surya-pratap-871b95187/</a></p>
 <p>- Instagram --> <a href=''>https://www.instagram.com/demon77_32/</a></p>
-<p>- Mobile No. --> `+91 8512068247`</p>
+<p>- Mobile No. --> <a href=''>+91 8512068247</a></p>
 <br>
-<p>-<span><h4>I</h4></span>'m Currently Doing Bachelors of Computer Applications and After that I will persue the Master's Degree in Computer Application.
+<p>-I'm Currently Doing Bachelors of Computer Applications and After that I will persue the Master's Degree in Computer Application.
      In Between I'll Greece myself and develop my skills and make me professional in These following Things:<p>
    <ul>
       <li>Artificial Intelligence</li>
