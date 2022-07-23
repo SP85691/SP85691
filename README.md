@@ -23,7 +23,7 @@
 <p>- Instagram --> <a href=''>https://www.instagram.com/demon77_32/</a></p>
 <p>- Mobile No. --> `+91 8512068247`</p>
 <br>
-<p>- <h4>I</h4>'m Currently Doing Bachelors of Computer Applications and After that I will persue the Master's Degree in Computer Application.
+<p>-<span><h4>I</h4></span>'m Currently Doing Bachelors of Computer Applications and After that I will persue the Master's Degree in Computer Application.
      In Between I'll Greece myself and develop my skills and make me professional in These following Things:<p>
    <ul>
       <li>Artificial Intelligence</li>
