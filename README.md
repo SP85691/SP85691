@@ -3,8 +3,8 @@
 
 ## Introduction! 
 <br>
-- 👋 Hi, I’m Surya Pratap
-- 👀 I’m interested in Artificial Intelligence and Robotics
+<p>- 👋 Hi, I’m Surya Pratap</p>
+<p>- 👀 I’m interested in Artificial Intelligence and Robotics</p>
 - 🏫 Currently, I'm Pursuing BCA From Asian School of Business - Noida, UP, India.
 - 💞️ I’m Very Enthusiatic doing in Programming and Quick Learner.
 - 🧑‍💻 I worked on these Programming Languages (e.g. C, C++, Python, JS, etc.)
