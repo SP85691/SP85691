@@ -18,22 +18,22 @@
 <br>
 ## 📫 How to reach me?
 <br>
-<p>- Email --> <a href='suryapratap8562@gmail.com'>suryapratap8562@gmail.com</a></p>
-<p>- LinkedIN --> <a>`linkedin.com/in/surya-pratap-871b95187/`</a></p>
-- Instagram --> `https://www.instagram.com/demon77_32/`
-- Mobile No. --> `+91 8512068247`
+<p>- Email --> <a href=''>suryapratap8562@gmail.com</a></p>
+<p>- LinkedIN --> <a href=''>linkedin.com/in/surya-pratap-871b95187/</a></p>
+<p>- Instagram --> <a href=''>https://www.instagram.com/demon77_32/</a></p>
+<p>- Mobile No. --> `+91 8512068247`</p>
 <br>
-- I'm Currently Doing Bachelors of Computer Applications and After that I will persue the Master's Degree in Computer Application.
-   In Between I'll Greece myself and develop my skills and make me professional in These following Things:
-   
-   -> Artificial Intelligence
-   -> Data Science
-   -> Machine Learning & Deep Learning
-   -> Robotics 
-   -> Quantum Computing
-   -> Cloud Computing
+<p>- I'm Currently Doing Bachelors of Computer Applications and After that I will persue the Master's Degree in Computer Application.
+   In Between I'll Greece myself and develop my skills and make me professional in These following Things:<p>
+   <ul>
+      <li>Artificial Intelligence</li>
+   <li>Data Science</li>
+   <li> Machine Learning & Deep Learning</li>
+   <li>Robotics</li> 
+   <li>Quantum Computing</li>
+   <li>Cloud Computing</li>
 
--- All These Stuff I will Know From various Points. And Gain The Various types of certification of various stuffs.
+<p>-- All These Stuff I will Know From various Points. And Gain The Various types of certification of various stuffs.</p>
 
 <!---
 SP85691/SP85691 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
