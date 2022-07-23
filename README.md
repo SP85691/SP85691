@@ -21,11 +21,12 @@
      In Between I'll Greece myself and develop my skills and make me professional in These following Things:<p>
    <ul>
       <li>Artificial Intelligence</li>
-   <li>Data Science</li>
-   <li> Machine Learning & Deep Learning</li>
-   <li>Robotics</li> 
-   <li>Quantum Computing</li>
-   <li>Cloud Computing</li>
+      <li>Data Science</li>
+      <li> Machine Learning & Deep Learning</li>
+      <li>Robotics</li> 
+      <li>Quantum Computing</li>
+      <li>Cloud Computing</li>
+   </ul>
 <br>   
 <p>-- All These Stuff I will Know From various Points. And Gain The Various types of certification of various stuffs.</p>
 
