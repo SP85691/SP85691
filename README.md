@@ -14,7 +14,7 @@
 <h3> How to reach me 📫?</h3>
 <p>- Email --> <a href='suryapratap8562@gmail.com'>suryapratap8562@gmail.com</a></p>
 <p>- LinkedIN --> <a href='https://www.linkedin.com/in/surya-pratap-871b95187/'>linkedin.com/in/surya-pratap-871b95187/</a></p>
-<p>- Instagram --> <a href=''>https://www.instagram.com/demon77_32/</a></p>
+<p>- Instagram --> <a href='https://www.instagram.com/demon77_32/'>instagram.com/demon77_32/</a></p>
 <p>- Mobile No. --> <a href=''>+91 8512068247</a></p>
 <br>
 <p>-I'm Currently Doing Bachelors of Computer Applications and After that I will persue the Master's Degree in Computer Application.
