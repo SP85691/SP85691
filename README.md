@@ -1,13 +1,14 @@
 - 👋 Hi, I’m Surya Pratap
 - 👀 I’m interested in Artificial Intelligence and Robotics
-- 🏫 Currently, I'm Pursuing Degree - BCA From Asian School of Business - Noida, UP, India.
-- 💞️ I’m Very Enthusiatic doing in Programming.
-- 🧑‍💻 I did worked on these Programming Languages (e.g. C, C++, Python, JS, etc.)
+- 🏫 Currently, I'm Pursuing BCA From Asian School of Business - Noida, UP, India.
+- 💞️ I’m Very Enthusiatic doing in Programming and Quick Learner.
+- 🧑‍💻 I worked on these Programming Languages (e.g. C, C++, Python, JS, etc.)
 
-- 🤔 What currently am I doing?
-- I'm Woked on Data Analytics Tools (such as: Python, Pandas, Matplotlib, Saeborn, MySQL)\n
-- Currently I've Created a Model of Facial Recognition.
-- Also, I'm Learning The Models of Machine Learning.
+- 🤔 What Projects/Things I have done . . .
+- I Worked on Data Analytics Tools (such as: Python, Pandas, Matplotlib, Saeborn, MySQL)\n
+- I've Created a Model of Facial Recognition.\n
+- I've Created Face Tracking and Object Detection Project Using (Tensorflow, Keras, OpenCV and Matplotlib).\n
+- Also, I'm Learning The Models of Machine Learning.\n
 
 - 📫 How to reach me?
 - Email --> `suryapratap8562@gmail.com`
